@@ -1,5 +1,4 @@
 # Location_stealer
-> Great thanks to Sergey (https://github.com/sergnik1995) that made a PHP file for this project
 
 ## What is it?
 
@@ -18,8 +17,7 @@ Don't worry, all your location data will be safe - GitHub Pages doesn't allow PH
 2. Change the e-mail in mail.php file.
 3. Add some html and css at your own will.
 4. Make sure your server allows PHP and the mail settings are fine with PHP.
-(Optional)
-5. Add/remove options by editing 'newObj' Object in index.js and '$msg' String in mail.php.
+5. Add/remove options by editing 'newObj' Object in index.js and '$msg' String in mail.php. (Optional)
 
 
 
